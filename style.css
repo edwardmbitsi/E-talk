@@ -8,7 +8,7 @@ box-sizing: border-box;
 body {
 display: flex;  
 justify-content: center;  
-    align-items: center;  
+align-items: center;  
     height: 100vh;  
     margin: 0;  
     background: rgb(41, 39, 39);  
