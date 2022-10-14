@@ -21,19 +21,13 @@ justify-content: space-between;
 }
 
 .glass {
-width: 500px;
-height: 400px;
-background-color: rgba(255, 255, 255, 0.1);
-padding: 50px;
-color: #000;
-border-radius: 9px;
-backdrop-filter: blur(50px);
-border: 2px solid transparent;
-background-clip: padding-box;
-box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
-line-height: 1.5;
-transform: translatey(-5%);
-transition: transform 0.5s;
+ background: rgba(0, 0, 0, 0.884);  
+ color: white;  
+ padding: 1.5rem;  
+ border-radius: 30px;  
+ width: 100%;  
+ max-width: 420px;  
+ margin: 1rem
 }
 
 .glass-1 {
