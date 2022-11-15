@@ -1,6 +1,7 @@
 function talk(){
 var know = {
 "Who are you" : "Hello,I am E Talk",
+"Hi" : "Hello :)",  
 "Hello" : "Hi",  
 "How are you" : "I am Good :)",
 "I need someone to talk to" :  "Reach us on our email mbitsilikesyou@gmail.com, we answer in minutes",
